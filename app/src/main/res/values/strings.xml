@@ -1,3 +1,4 @@
 <resources>
     <string name="app_name">MrNewsMan</string>
+    <string name="click_here"> <u>Click Here</u></string>
 </resources>

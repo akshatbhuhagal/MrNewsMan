@@ -54,7 +54,7 @@ class MainActivity : AppCompatActivity(), NewsItemClicked {
 
     private fun fetchData() {
 
-        val url= "https://newsapi.org/v2/everything?domains=hindustantimes.com,indianexpress.com&apiKey=f1bfa51297b14814b909198025c34323"
+        val url= "API LINK"
 
         val jsonObjectRequest = object: JsonObjectRequest(Request.Method.GET, url, null,
             {
