@@ -1,7 +1,9 @@
 # MrNewsMan
 
-Android app for displaying News written in Kotlin, <br>
-Fetch news from API and list them inside a RecyclerView with Share & Web View feature.
+
+* Android App for displaying News written in Kotlin-Native <br>
+* Fetch news from API and list them inside a RecyclerView  <br>
+* Used RecyclerView, Chrome Web View, API, MVP  <br>
 
 
 <p align="left">
